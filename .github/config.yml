@@ -33,7 +33,8 @@ requestInfoReplyComment: >
 # *OPTIONAL* Add a list of people whose Issues/PRs will not be commented on
 # keys must be GitHub usernames
 #requestInfoUserstoExclude:
-#  - mesheryio/maintainers
+
+#  - meshery/maintainers
 
 #-------------------------------------------------------------------------------
 # Configuration for sentiment-bot - https://github.com/behaviorbot/sentiment-bot
@@ -43,5 +44,7 @@ sentimentBotToxicityThreshold: .9
 
 # *Required* Comment to reply with
 sentimentBotReplyComment: >
-  Please be sure to review the code of conduct and be respectful of other users. // @mesheryio/maintainers
+
+  Please be sure to review the code of conduct and be respectful of other users. // @meshery/maintainers
+
 

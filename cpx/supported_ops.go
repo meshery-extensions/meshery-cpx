@@ -1,4 +1,5 @@
 // Copyright Meshery Authors
+
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -27,8 +28,8 @@ type supportedOperation struct {
 const (
 	customOpCommand                          = "custom"
 	runVet                                   = "cpx_vet"
-	installCpxCommand                      = "cpx_install"
-	installmTLSCpxCommand                  = "cpx_mtls_install"
+	installCpxCommand                        = "cpx_install"
+	installmTLSCpxCommand                    = "cpx_mtls_install"
 	installBookInfoCommand                   = "install_book_info"
 	cbCommand                                = "cb1"
 	installSMI                               = "install_smi"

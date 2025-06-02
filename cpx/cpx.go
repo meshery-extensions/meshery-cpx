@@ -1,4 +1,5 @@
 // Copyright Meshery Authors
+
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -47,7 +48,7 @@ var (
 	kubeConfigGenerationScript = path.Join(os.Getenv("HOME"), "scripts/generate-kubeconfig.sh")
 )
 
-//CreateMeshInstance is called from UI
+// CreateMeshInstance is called from UI
 func (iClient *Client) CreateMeshInstance(_ context.Context, k8sReq *meshes.CreateMeshInstanceRequest) (*meshes.CreateMeshInstanceResponse, error) {
 	var k8sConfig []byte
 	contextName := ""
