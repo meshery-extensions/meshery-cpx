@@ -36,7 +36,7 @@ Add any other context about the problem here.
 
 The meshery.io website uses Jekyll and GitHub Pages. Site content is found under the [`master` branch](https://github.com/meshery/meshery.io/tree/master).
 - See the [Contributing to Meshery.io Website](https://github.com/meshery/meshery.io#contributing-to-the-mesheryio-website) section of the readme.md and other [contributing instructions](https://docs.meshery.io/project/contributing), too.
-- See Meshery site designs in this [Figma designfile](https://www.figma.com/file/SMP3zxOjZztdOLtgN4dS2W/Meshery-UI?node-id=110%3A1). Fill-in the [Meshery Community Member Form](https://meshery.io/newcomer) and join the [Community Slack](http://slack.meshery.io) for access.
+- See Meshery site designs in this [Figma design file](https://www.figma.com/file/SMP3zxOjZztdOLtgN4dS2W/Meshery-UI?node-id=110%3A1). Fill-in the [Meshery Community Member Form](https://meshery.io/newcomers) and join the [Community Slack](http://slack.meshery.io) for access.
 
 ---
 ### Contributor [Guides](https://docs.meshery.io/project/contributing) and [Handbook](https://meshery.io/community/handbook)
