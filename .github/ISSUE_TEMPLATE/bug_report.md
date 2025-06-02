@@ -29,10 +29,19 @@ assignees: ''
 4. See error
 -->
 
+[Optional] **Additional Context**
+Add any other context about the problem here.
+
+### Contributor Resources
+
+The meshery.io website uses Jekyll and GitHub Pages. Site content is found under the [`master` branch](https://github.com/meshery/meshery.io/tree/master).
+- See the [Contributing to Meshery.io Website](https://github.com/meshery/meshery.io#contributing-to-the-mesheryio-website) section of the readme.md and other [contributing instructions](https://docs.meshery.io/project/contributing), too.
+- See Meshery site designs in this [Figma design file](https://www.figma.com/file/SMP3zxOjZztdOLtgN4dS2W/Meshery-UI?node-id=110%3A1). Fill-in the [Meshery Community Member Form](https://meshery.io/newcomers) and join the [Community Slack](http://slack.meshery.io) for access.
+
 ---
 ### Contributor [Guides](https://docs.meshery.io/project/contributing) and [Handbook](https://meshery.io/community/handbook)
 - 🛠 [Meshery Build & Release Strategy](https://docs.meshery.io/project/contributing/build-and-release)
 - 📚 [Instructions for contributing to documentation](https://github.com/meshery/meshery/blob/master/CONTRIBUTING.md#documentation-contribution-flow)
    - Meshery documentation [site](https://docs.meshery.io/) and [source](https://github.com/meshery/meshery/tree/master/docs)
 - 🎨 Wireframes and [designs for Meshery UI](https://www.figma.com/file/SMP3zxOjZztdOLtgN4dS2W/Meshery-UI) in Figma [(open invite)](https://www.figma.com/team_invite/redeem/qJy1c95qirjgWQODApilR9)
-- 🙋🏾🙋🏼 Questions: [Discussion Forum](https://meshery.io/community#community-forums) and [Community Slack](https://slack.meshery.io)
+- 🙋🏾🙋🏼 Questions: [Discussion Forum](https://meshery.io/community#discussion-forums) and [Community Slack](https://slack.meshery.io)

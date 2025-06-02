@@ -8,13 +8,15 @@
 # Meshery Adapter for CPX
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/meshery/meshery-cpx.svg)](https://hub.docker.com/r/meshery/meshery-cpx)
-[![Go Report Card](https://goreportcard.com/badge/github.com/meshery/meshery-cpx)](https://goreportcard.com/report/github.com/meshery/meshery-cpx)
+[![Go Report Card](https://goreportcard.com/badge/github.com/meshery-extensions/meshery-cpx)](https://goreportcard.com/report/github.com/meshery-extensions/meshery-cpx)
  [![Build Status](https://img.shields.io/github/actions/workflow/status/meshery/meshery-cpx/multi-platform.yml?branch=master)](https://github.com/meshery/meshery-cpx/actions) 
-  [![GitHub](https://img.shields.io/github/license/meshery/meshery-cpx.svg)](LICENSE)
-[![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery-cpx/help%20wanted.svg)](https://github.com/meshery/meshery-cpx/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+  [![GitHub](https://img.shields.io/github/license/meshery-extensions/meshery-cpx.svg)](LICENSE)
+[![GitHub issues by-label](https://img.shields.io/github/issues/meshery-extensions/meshery-cpx/help%20wanted.svg)](https://github.com/meshery-extensions/meshery-cpx/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 [![Website](https://img.shields.io/website/https/meshery.io/meshery.svg)](https://meshery.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mesheryio.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
-[![Youtub](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mesheryio)
+[![Slack](https://img.shields.io/badge/Slack-@meshery.svg?logo=slack)](http://slack.meshery.io)
+<a href="https://youtube.com/@mesheryio?sub_confirmation=1" alt="YouTube">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCgXlqWDCg-9RP1eckf0s6KA?style=social" /></a>
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3564/badge)](https://bestpractices.coreinfrastructure.org/projects/3564)
 
 <p style="clear:both;">
