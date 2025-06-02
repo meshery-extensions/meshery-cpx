@@ -7,14 +7,14 @@
 
 # Meshery Adapter for CPX
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/layer5/meshery-cpx.svg)](https://hub.docker.com/r/layer5/meshery-cpx)
-[![Go Report Card](https://goreportcard.com/badge/github.com/layer5io/meshery-cpx)](https://goreportcard.com/report/github.com/layer5io/meshery-cpx)
+[![Docker Pulls](https://img.shields.io/docker/pulls/meshery/meshery-cpx.svg)](https://hub.docker.com/r/meshery/meshery-cpx)
+[![Go Report Card](https://goreportcard.com/badge/github.com/meshery-extensions/meshery-cpx)](https://goreportcard.com/report/github.com/meshery-extensions/meshery-cpx)
  [![Build Status](https://img.shields.io/github/actions/workflow/status/meshery/meshery-cpx/multi-platform.yml?branch=master)](https://github.com/meshery/meshery-cpx/actions) 
-  [![GitHub](https://img.shields.io/github/license/layer5io/meshery-cpx.svg)](LICENSE)
-[![GitHub issues by-label](https://img.shields.io/github/issues/layer5io/meshery-cpx/help%20wanted.svg)](https://github.com/layer5io/meshery-cpx/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
-[![Website](https://img.shields.io/website/https/layer5.io/meshery.svg)](https://meshery.io/)
+  [![GitHub](https://img.shields.io/github/license/meshery-extensions/meshery-cpx.svg)](LICENSE)
+[![GitHub issues by-label](https://img.shields.io/github/issues/meshery-extensions/meshery-cpx/help%20wanted.svg)](https://github.com/meshery-extensions/meshery-cpx/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+[![Website](https://img.shields.io/website/https/meshery.io/meshery.svg)](https://meshery.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mesheryio.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
-[![Slack](https://img.shields.io/badge/Slack-@layer5.svg?logo=slack)](http://slack.meshery.io)
+[![Slack](https://img.shields.io/badge/Slack-@meshery.svg?logo=slack)](http://slack.meshery.io)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3564/badge)](https://bestpractices.coreinfrastructure.org/projects/3564)
 
 <p style="clear:both;">
@@ -37,7 +37,7 @@ Our projects are community-built and welcome collaboration. 👍 Be sure to see 
 <p>
 ✔️ <em><strong>Join</strong></em> any or all of the weekly meetings on <a href="https://meshery.io/calendar">community calendar</a>.<br />
 ✔️ <em><strong>Watch</strong></em> community <a href="https://www.youtube.com/@mesheryio?sub_confirmation=1">meeting recordings</a>.<br />
-✔️ <em>Fill-in</em> a <a href="https://layer5.io/newcomers">community member form</a> to gain access to community resources.<br />
+✔️ <em>Fill-in</em> a <a href="https://meshery.io/newcomers">community member form</a> to gain access to community resources.<br />
 ✔️ <em><strong>Discuss</strong></em> in the <a href="https://discuss.meshery.io">Community Forum</a>.<br />
 </p>
 <p align="center">
